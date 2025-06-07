@@ -1,4 +1,4 @@
-# Biomedical NER Preprocessing Toolkit
+# Kit de herramientas de preprocesamiento de NER biomédico
 
 Kit de herramientas de preprocesamiento de NER biomédico
 Herramientas para el preprocesamiento de conjuntos de datos de texto biomédico para el entrenamiento de modelos de Reconocimiento de Entidades Nombradas (NER), diseñadas específicamente para el análisis de biomarcadores de cáncer de mama.
